@@ -72,7 +72,6 @@ The risk matrix panel will provide custom options for risk metrics with differen
 
 #### Delta Hedge Simulation
 
-![Hedge](E:\MATLAB\PRMIA\Hedge.jpg)
 
 
 ## Related Source
