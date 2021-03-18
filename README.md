@@ -37,7 +37,7 @@ MATLAB livescript documenting approaches used to develop metrics and visuals
 #### Performance Analysis - Position
 The dashboard will automatically read data from position file and dispaly data in positions window. 
 
--   The market data should come from exchange market API and **update tickly** for traders to monitor.
+-   The market data should come from exchange market API and **update timely** for traders to monitor.
     
 -   The start of the day, total buy, total sell, and net positions are included in the dashboard.
     
